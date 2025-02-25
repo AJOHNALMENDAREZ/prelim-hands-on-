@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "prelim hands on/1.0.0": {
+        "runtime": {
+          "prelim hands on.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "prelim hands on/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\pcuser\Documents\prelim hands on\obj\Debug\net8.0\prelim hands on.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pcuser\Documents\prelim hands on\obj\Debug\net8.0\prelim hands on.AssemblyInfoInputs.cache
+C:\Users\pcuser\Documents\prelim hands on\obj\Debug\net8.0\prelim hands on.AssemblyInfo.cs
+C:\Users\pcuser\Documents\prelim hands on\obj\Debug\net8.0\prelim hands on.csproj.CoreCompileInputs.cache
+C:\Users\pcuser\Documents\prelim hands on\bin\Debug\net8.0\prelim hands on.exe
+C:\Users\pcuser\Documents\prelim hands on\bin\Debug\net8.0\prelim hands on.deps.json
+C:\Users\pcuser\Documents\prelim hands on\bin\Debug\net8.0\prelim hands on.runtimeconfig.json
+C:\Users\pcuser\Documents\prelim hands on\bin\Debug\net8.0\prelim hands on.dll
+C:\Users\pcuser\Documents\prelim hands on\bin\Debug\net8.0\prelim hands on.pdb
+C:\Users\pcuser\Documents\prelim hands on\obj\Debug\net8.0\prelim hands on.dll
+C:\Users\pcuser\Documents\prelim hands on\obj\Debug\net8.0\refint\prelim hands on.dll
+C:\Users\pcuser\Documents\prelim hands on\obj\Debug\net8.0\prelim hands on.pdb
+C:\Users\pcuser\Documents\prelim hands on\obj\Debug\net8.0\prelim hands on.genruntimeconfig.cache
+C:\Users\pcuser\Documents\prelim hands on\obj\Debug\net8.0\ref\prelim hands on.dll
